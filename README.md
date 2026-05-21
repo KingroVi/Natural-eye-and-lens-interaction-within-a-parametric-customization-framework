@@ -104,7 +104,5 @@ Chen, L., Tang, R., Zhu, A., Xiao, J., Li, Z., & Luximon, Y. Achieving natural e
 
 The final citation information will be updated after publication.
 
-## License
 
-Please contact the corresponding author before reusing or redistributing the data or code.
 
