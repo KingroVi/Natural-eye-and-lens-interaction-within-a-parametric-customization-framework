@@ -45,9 +45,8 @@ Depending on the released data format, each record may include variables such as
 | `x` | Horizontal coordinate of the lens utility point on the normalized or projected lens plane |
 | `y` | Vertical coordinate of the lens utility point on the normalized or projected lens plane |
 | `t` | Fixation-duration-related temporal value or representative duration |
-| `group` | Participant group, such as myopia or presbyopia |
+| `group` | Participant group, such as myopia (young) or presbyopia (older) |
 | `task` | Viewing task or task subset, if provided |
-| `density` | Density or visualization weight, if provided |
 
 Please check the released data files for the exact column names and units. The manuscript provides the full methodological details for data acquisition, preprocessing, representative-set construction, and optical-fit evaluation.
 
