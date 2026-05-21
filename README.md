@@ -13,7 +13,7 @@ Eyeglasses optical performance is commonly evaluated using lens-centered assumpt
 
 The dataset can be used to support optical-fit evaluation, spectacle lens design, eyewear design, and related visual-performance studies where realistic eye–lens interaction is relevant.
 
-## Repository Structure
+## Major Repository Structure
 
 ```text
 .
