@@ -106,5 +106,5 @@ The final citation information will be updated after publication.
 
 ## License
 
-Please refer to the repository license file, if provided, for terms of use. If no license is included, please contact the corresponding author before reusing or redistributing the data or code.
+Please contact the corresponding author before reusing or redistributing the data or code.
 
